@@ -1,0 +1,14 @@
+let username = " lokesh";
+console.log(username.charAt(1));
+console.log(username.indexOf("o"));
+console.log(username.lastIndexOfindexOf("o"));
+console.log(username.length());
+console.log(username.trim());
+console.log(username.toUpperCase);
+console.log(username.toLowerCase);
+console.log(username.repeat(3));
+console.log(username.startsWith(" "));
+console.log(username.endsWith("r"));
+console.log(username.includes(" "));
+console.log(username.replace("l","r"));
+console.log(username.padStart(15,e));
